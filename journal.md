@@ -26,3 +26,59 @@ During my 40 years of life, programming has been a common thread throughout it, 
 My current project ends in two days and I will be out of a job by Wednesday. I don’t want to experience this any more in my life. I want (I need) to stop being a programming amateur and become a professional, so I can finally work on my passion and not being afraid of losing a job anymore.
 
 This time, I will fulfil my long-awaited desire of becoming a developer. This new chapter in my life starts today.
+
+# Day 1 - 20/04/2021
+## How to effectively learn programming
+*We learn when we pull out the concepts out of our memory, not when we put them in.*
+
+This is a gathering of different ideas, concepts, advice, and experiences I have gathered while researching about how I can effectively learn to code and minimise the waste of time while doing so.
+
+### Passive and active
+Passive learning is reading, watching videos, listening, and all types of consuming information. Active learning is learning from experience, from practice, from facing difficult challenges and figuring a way to get around obstacles.
+
+The passive to active learning ratio should be really small, meaning that the time allocated to programming should be focused on active learning instead of passive learning.
+
+The actual amount of time for each type of learning will depend on the complexity of the subject to learn.
+
+### Micro projects
+Once a new concept is acquired (through passive learning), it should immediately be put into practice (active learning). Creating micro projects is the best way to do this. For example, if we just acquired the concept of navbar, we should be creating 10 or 15 navbars, until we can do them by reflex, by instinct.
+
+Big projects are just a collection of smaller projects, so in the end we are building towards our big projects indirectly.
+
+Once we finish 10 or 15 micro projects, we can move forward to the next concept to be learned.
+
+### The Feynman technique and rubber duck debugging
+
+From Wikipedia: “The name is a reference to a story in the book The Pragmatic Programmer in which a programmer would carry around a rubber duck and debug their code by forcing themself to explain it, line-by-line, to the duck.”
+
+The rubber duck technique is essentially the same as the Feynman technique: explain what we have just learned. We actually learn by explaining the concept, because doing so will expose the gray areas in our knowledge.
+
+We can exercise these techniques by writing blog posts (like this one :), recording a video presentation, speaking out loud, using a whiteboard, etc.
+
+### Spaced learning
+We usually tend to concentrate in a single day the learning of a concept. Instead, what we should do, is space it throughout various days. Doing this will force us to actively search in our memory and solidify concepts.
+
+** We learn when we pull out the concepts out of our memory, not when we put them in. **
+
+### Spaced repetition
+Similar to spaced learning, this is more oriented to the memorisation of concepts, works, and specific ideas.
+
+From Wikipedia: “Spaced repetition is an evidence-based learning technique that is usually performed with flashcards. Newly introduced and more difficult flashcards are shown more frequently, while older and less difficult flashcards are shown less frequently in order to exploit the psychological spacing effect. The use of spaced repetition has been proven to increase rate of learning.”
+
+### Keep track of your questions
+Take note and keep track of the questions that are rising throughout the learning process. Ask “why is this the way it is?”, be inquisitive. Take the role of a reporter or a detective trying to find the truth behind a concept. Ask questions to the book, to the tutorial, to the video, etc.
+
+Keep a list of all our questions, and find the answers (this goes hand in hand with spaced repetition).
+
+### Build projects
+This is the most important step. Dedicate time to build projects. We can build a single, very complex, project, or various not so complex ones. Allocate a great deal of time to this.
+
+Build a portfolio, and include this projects in the portfolio.
+
+Don’t make just one. Do several. This is our job, to build. So build!
+
+### Eat, move, sleep
+To maintain an optimal cognitive state, we should eat healthy (drink enough water), move regularly (several times a day, for short periods of time -e.g. when we are taking breaks from coding-), have enough sleep (sometimes 5 hours is enough, other times 10).
+
+Our brain needs to be in an optimal state to be able to function at its maximum capacity.
+
