@@ -82,3 +82,6 @@ To maintain an optimal cognitive state, we should eat healthy (drink enough wate
 
 Our brain needs to be in an optimal state to be able to function at its maximum capacity.
 
+# Day 2 - 22/04/2021
+Today I started with HTML. The basics. Just reviewing what I already know. I used freecodecamp.org and the book called Learning Web Design, by Jennifer Robbins. I'm also using VSCode for practice, and keeping a journal with questions and answers. I'm applying, bit by bit, the concepts I learned and posted in the previous post. So far, so good.
+
